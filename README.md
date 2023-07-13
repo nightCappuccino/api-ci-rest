@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/53kvergkog56ho1k/branch/main?svg=true)](https://ci.appveyor.com/project/nightCappuccino/api-ci-rest/branch/main)
