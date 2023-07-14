@@ -1,6 +1,10 @@
 package ru.netology.rest;
 
 import org.junit.jupiter.api.Test;
+import io.restassured.http.ContentType;
+import static org.hamcrest.Matcher.*;
+import static io.restassured.module.jsv.JsonSchemaValidator.matchesJsonSchema;
+
 
 import static io.restassured.RestAssured.given;
 
